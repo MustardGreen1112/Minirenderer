@@ -6,7 +6,7 @@ It is suitable for those who attempts to learn the basis of 3D-rendering and com
 
 Currently it is only tested on windows-VisualStudio 2022/2019. It supports .png files as input/output textures and .fbx files as input 3D model.
 
-![](blob:file:///849bc782-a0b3-4c74-8715-6bab3776d281)&#x20;
+![](blob:file:///849bc782-a0b3-4c74-8715-6bab3776d281) ![](README_md_files/f2385190-614c-11ee-9ed6-8f5a811404c5.jpeg?v=1&type=image)
 
 ### **How to build:**
 
@@ -42,7 +42,7 @@ Cons:
 
 2.  While it is CPU-based, the render efficiency will be lower than GPU.
 
-### **Contact the **author:
+### \*\*Contact the \*\*author:
 
 If you need any help or want to communicate with me, leave a message here or contact me by the ways below:
 
