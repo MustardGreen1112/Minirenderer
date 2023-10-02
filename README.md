@@ -42,7 +42,7 @@ Cons:
 
 2.  While it is CPU-based, the render efficiency will be lower than GPU.
 
-### \*\*Contact the \*\*author:
+### Contact the author:
 
 If you need any help or want to communicate with me, leave a message here or contact me by the ways below:
 
