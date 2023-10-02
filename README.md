@@ -26,7 +26,7 @@ Then, Configure the environment as instructions below.(Release Mode). If you pre
 
 ![](README_md_files/1ad25bb0-6147-11ee-a1c5-2153c1a8046e.jpeg?v=1&type=image)
 
-1.  Use 2^n \* 2^n (e.g 512 pixel \* 512 pixel) squared png files as input/output texture.
+2.  Use 2^n \* 2^n (e.g 512 pixel \* 512 pixel) squared png files as input/output texture.
 
 ### Pros and Cons:
 
